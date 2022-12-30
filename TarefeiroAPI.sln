@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarefeiroAPI", "TarefeiroAPI\TarefeiroAPI.csproj", "{B09DCB01-6320-4FFF-94B8-52A81A46FA3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{85526F9E-38F0-4AED-9674-FBCB837E51C7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09DCB01-6320-4FFF-94B8-52A81A46FA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09DCB01-6320-4FFF-94B8-52A81A46FA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09DCB01-6320-4FFF-94B8-52A81A46FA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09DCB01-6320-4FFF-94B8-52A81A46FA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F884FE6E-66AE-48D4-9ADC-FDADF6AB5F75}
+	EndGlobalSection
+EndGlobal
