@@ -15,5 +15,6 @@ by: Cursos Kane Chan
     - dotnet ef migration add comentariosSize200
     - dotnet ef database update
 
-## Próxima etapa 
-- Front (https://youtu.be/hZuBfDyTRQ8?t=3111)
+## Front (Angular)
+Com node instalado executar: `npm install @angular/cli`
+- Criar projeto (`ng new TarefeiroFrontAngular`)
