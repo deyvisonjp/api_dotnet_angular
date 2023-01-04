@@ -18,3 +18,7 @@ by: Cursos Kane Chan
 ## Front (Angular)
 Com node instalado executar: `npm install @angular/cli`
 - Criar projeto (`ng new TarefeiroFrontAngular`)
+- Comando para criar os components: `ng g c tarefeiro`
+    - `ng g c tarefeiro/show-tarefeiro`
+    -  `ng g c tarefeiro/add-edit-tarefeiro`
+    - Criando o service: `ng g service tarefeiro-api`
