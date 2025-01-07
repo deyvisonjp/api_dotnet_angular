@@ -22,5 +22,4 @@ Com node instalado executar: `npm install @angular/cli`
     - `ng g c tarefeiro/show-tarefeiro`
     -  `ng g c tarefeiro/add-edit-tarefeiro`
     - Criando o service: `ng g service tarefeiro-api`
-
-    */*/*https://youtu.be/hZuBfDyTRQ8?t=5152*/*/*/
+      
